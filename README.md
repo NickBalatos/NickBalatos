@@ -20,6 +20,7 @@ Fields I am interested in are ML & AI, Cybersecurity.
   2) Global Time web-based App
 - Latest Project:
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
+  2) Global Time (https://github.com/NickBalatos/GlobalTime)
 
 ## Let's Connect
 🤝 nbalatos@gmail.com
