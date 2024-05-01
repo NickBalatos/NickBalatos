@@ -21,7 +21,7 @@ Fields I am interested in are ML & AI, Cybersecurity.
   3) Cryptocurrencies Converter Web-Based App
 - Latest Project:
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
-  2) Global Time (https://github.com/NickBalatos/GlobalTime)
+  2) Global Time (https://globaltimebalatos.streamlit.app/)
 
 ## Let's Connect
 🤝 nbalatos@gmail.com
