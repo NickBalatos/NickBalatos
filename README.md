@@ -22,8 +22,4 @@ Fields I am interested in are ML & AI, Cybersecurity.
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
 
 ## Let's Connect
-
-I'm always open to collaborating on new projects or just having a chat. Feel free to reach out!
-
-[![LinkedIn](linkedin_icon_link)]([NikolaosBa](https://www.linkedin.com/in/nbalatos/))
-[![Email](email_icon_link)](nbalatos@gmail.com)
+🤝 nbalatos@gmail.com
