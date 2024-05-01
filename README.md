@@ -17,7 +17,7 @@ Fields I am interested in are ML & AI, Cybersecurity.
 
 - Currently working on:
   1) Software Engineering Project
-  2) Global Time web-based App
+  2) ML Web Based App 
 - Latest Project:
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
   2) Global Time (https://github.com/NickBalatos/GlobalTime)
