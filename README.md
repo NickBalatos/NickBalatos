@@ -1,8 +1,6 @@
 # Hello, I'm Nikolaos Balatos! 👋
 
-I'm a Uni Student passionate about Coding/ML/Cybersecurity. Welcome to my GitHub profile!
-Trying to learn as much as much as possible until my graduation.
-Fields I am interested in are ML & AI, Cybersecurity.
+I'm a Uni Student passionate about Coding/ML & AI/Cybersecurity. 
 
 ## About Me
 - 🎓 Undergraduate Student | Ionian University | Dept. of Informatics
@@ -19,7 +17,7 @@ Fields I am interested in are ML & AI, Cybersecurity.
   1) Software Engineering Project
   2) ML Web-Based App
   3) Cryptocurrencies Converter Web-Based App
-- Latest Project:
+- Latest Projects:
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
   2) Global Time (https://globaltimebalatos.streamlit.app/)
 
