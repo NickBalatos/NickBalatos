@@ -15,7 +15,7 @@ I'm a Uni Student passionate about Coding/ML & AI/Cybersecurity.
 
 - Currently working on:
   1) Software Engineering Project
-  2) ML Web-Based App
+  2) Internet Technologies Project
   3) Cryptocurrencies Converter Web-Based App
 - Latest Projects:
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
