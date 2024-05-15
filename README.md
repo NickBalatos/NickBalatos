@@ -24,4 +24,5 @@ I'm a Uni Student passionate about Coding/ML & AI/Cybersecurity.
 ## Let's Connect
 🤝 nbalatos@gmail.com
 
-![maxresdefault](https://github.com/NickBalatos/NickBalatos/assets/94397703/c37db57e-cda8-4f17-b955-129984e51c6a)
+![sad_code_cat](https://github.com/NickBalatos/NickBalatos/assets/94397703/d0c9c3e3-897e-4b36-914a-420e5cf0ef08)
+
