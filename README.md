@@ -21,8 +21,7 @@ I'm a Uni Student passionate about Coding/ML & AI/Cybersecurity.
   1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
   2) Global Time (https://globaltimebalatos.streamlit.app/)
 
-![maxresdefault](https://github.com/NickBalatos/NickBalatos/assets/94397703/c37db57e-cda8-4f17-b955-129984e51c6a)
-
-
 ## Let's Connect
 🤝 nbalatos@gmail.com
+
+![maxresdefault](https://github.com/NickBalatos/NickBalatos/assets/94397703/c37db57e-cda8-4f17-b955-129984e51c6a)
