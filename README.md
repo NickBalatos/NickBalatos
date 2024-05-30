@@ -1,10 +1,10 @@
 # Hello, I'm Nikolaos Balatos! 👋
 
-I'm a Uni Student passionate about Coding/ML & AI/Cybersecurity. 
+You Will Never Miss a Lucky Day if You Try Every Single Day
 
 ## About Me
 - 🎓 Undergraduate Student | Ionian University | Dept. of Informatics
-- 🌱 I'm constantly learning and exploring new technologies such as ML & AI.
+- 🌱 I'm constantly learning and exploring new technologies such as ML | AI | Cybersecurity.
 
 ## Skills
 
