@@ -14,7 +14,7 @@ I'm a Uni Student passionate about Coding/ML & AI/Cybersecurity.
 ## Projects
 
 - Currently working on:
-  1) Software Engineering Project
+  1) Software Engineering Project (https://github.com/Brigade-01/Software-Engineering)
   2) Internet Technologies Project
   3) Cryptocurrencies Converter Web-Based App
 - Latest Projects:
