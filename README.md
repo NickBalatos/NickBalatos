@@ -8,19 +8,15 @@ You Will Never Miss a Lucky Day if You Try Every Single Day
 
 ## Skills
 
-- Languages: C++, Python, SQL, HTML/CSS
+- Languages: C++, SQL, HTML/CSS
 - Technologies: Streamlit, Docker, OracleSQL
 
 ## Projects
 
-- Currently working on:
+- Latest Projects:
   1) Software Engineering Project (https://github.com/Brigade-01/Software-Engineering)
   2) Internet Technologies Project
-  3) Cryptocurrencies Converter Web-Based App
-- Latest Projects:
-  1) Currency Converter (https://currencyconvbalatos.streamlit.app/)
-  2) Global Time (https://globaltimebalatos.streamlit.app/)
-
+ 
 ## Let's Connect
 🤝 nbalatos@gmail.com
 
