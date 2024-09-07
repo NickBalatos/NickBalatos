@@ -14,8 +14,10 @@ You Will Never Miss a Lucky Day if You Try Every Single Day
 ## Projects
 
 - Latest Projects:
+
   1) Software Engineering Project (https://github.com/Brigade-01/Software-Engineering)
-  2) Internet Technologies Project
+  2) Crypto Converter (https://github.com/NickBalatos/CryptoConverter)
+  3) Internet Technologies Project
  
 ## Let's Connect
 🤝 nbalatos@gmail.com
