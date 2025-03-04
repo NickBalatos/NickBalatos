@@ -17,7 +17,8 @@ You Will Never Miss a Lucky Day if You Try Every Single Day
 
   1) Streamlit Data Science Project (https://github.com/Brigade-01/Software-Engineering)
   2) Crypto Converter (https://github.com/NickBalatos/CryptoConverter)
-  3) Currently working on a Data Science project trying to hone my skills
+  3) Internet Technologies Project (https://github.com/NickBalatos/Internet-Technologies-Project)
+  4) Currently working on a Data Science project trying to hone my skills
  
 ## Let's Connect
 🤝 contact@nbalatos.com
