@@ -2,13 +2,15 @@
 
 You Will Never Miss a Lucky Day if You Try Every Single Day
 
+Visit: nbalatos.com
+
 ## About Me
 - 🎓 Undergraduate Student | Ionian University | Dept. of Informatics
 - 🌱 I'm constantly learning and exploring new technologies such as ML | AI | Cybersecurity.
 
 ## Skills
 
-- Languages: Python - SQL - Data Analysis - ML & AI Basic Concepts - Data Privacy & GDPR
+- Python - SQL - Data Analysis - ML & AI Basic Concepts - Data Privacy & GDPR
 - Technologies: Streamlit, Docker, OracleSQL, Git
 
 ## Projects
