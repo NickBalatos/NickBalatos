@@ -2,7 +2,7 @@
 
 You Will Never Miss a Lucky Day if You Try Every Single Day
 
-Visit: nbalatos.com
+Visit: [nbalatos.com](https://nbalatos.com)
 
 ## About Me
 - 🎓 Undergraduate Student | Ionian University | Dept. of Informatics
