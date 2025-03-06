@@ -20,7 +20,7 @@ Visit: [nbalatos.com](https://nbalatos.com)
 
 - Latest Projects:
 
-  1) Streamlit Data Science Project (https://github.com/Brigade-01/Software-Engineering)
+  1) Streamlit Data Analysis Project (https://github.com/Brigade-01/Software-Engineering)
   2) Crypto Converter (https://github.com/NickBalatos/CryptoConverter)
   3) Internet Technologies Project (https://github.com/NickBalatos/Internet-Technologies-Project)
   4) Currently working on a Data Science project trying to hone my skills
