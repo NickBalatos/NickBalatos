@@ -4,6 +4,7 @@ You Will Never Miss a Lucky Day if You Try Every Single Day
 
 ## Let's Connect
 🤝 contact@nbalatos.com
+
 Visit: [nbalatos.com](https://nbalatos.com)
 
 ## About Me
