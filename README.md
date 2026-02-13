@@ -3,22 +3,14 @@
 You Will Never Miss a Lucky Day if You Try Every Single Day
 
 ## About Me
-- 🎓 Undergraduate Student | Ionian University | Dept. of Informatics
-- 🌱 I'm constantly learning and exploring new technologies such as ML | AI | Cybersecurity.
+- 🎓 BCs Graduate | Ionian University | Dept. of Informatics
+- 🌱 Passionate about Data Science and more specifically the Data Engineering field
 
 ## Skills
 
-- Python - SQL - Data Analysis - ML & AI Basic Concepts - Data Privacy & GDPR
-- Technologies: Streamlit, Docker, OracleSQL, Git
+- Python - SQL - Data Analysis - Data Engineering Techniques - Data Privacy & GDPR
+- Technologies: Streamlit, Docker, PostgreSQL OracleSQL, Git
 
-## Projects
-
-- Latest Projects:
-
-  1) Streamlit Data Analysis Project (https://github.com/Brigade-01/Software-Engineering)
-  2) Crypto Converter (https://github.com/NickBalatos/CryptoConverter)
-  3) Internet Technologies Project (https://github.com/NickBalatos/Internet-Technologies-Project)
-  4) Currently working on a Data Science project trying to hone my skills
 
 ## Let's Connect
 🤝 contact@nbalatos.com
