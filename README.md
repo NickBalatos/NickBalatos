@@ -1,7 +1,5 @@
 # Hello, I'm Nikolaos Balatos! 👋
 
-You Will Never Miss a Lucky Day if You Try Every Single Day
-
 ## About Me
 - 🎓 BCs Graduate | Ionian University | Dept. of Informatics
 - 🌱 Passionate about Data Science and more specifically the Data Engineering field
@@ -9,11 +7,13 @@ You Will Never Miss a Lucky Day if You Try Every Single Day
 ## Skills
 
 - Python - SQL - Data Analysis - Data Engineering Techniques - Data Privacy & GDPR
-- Technologies: Streamlit, Docker, PostgreSQL OracleSQL, Git
+- Technologies: ApacheAirflow, Google APIs, Docker, PostgreSQL OracleSQL, Git
 
 
 ## Let's Connect
 🤝 contact@nbalatos.com
+
+You Will Never Miss a Lucky Day if You Try Every Single Day
 
 Visit: [nbalatos.com](https://nbalatos.com)
 
