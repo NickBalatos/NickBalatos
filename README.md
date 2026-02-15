@@ -6,7 +6,7 @@
 
 ## Skills
 
-- Python - SQL - Data Analysis - Data Engineering Techniques - Data Privacy & GDPR
+- Python - SQL - ETL/ELT - CI/CD - Data Analysis - Data Engineering Techniques - Machine Learning Algorithms - Data Privacy & GDPR
 - Technologies: ApacheAirflow, Google APIs, Docker, PostgreSQL OracleSQL, Git
 
 
