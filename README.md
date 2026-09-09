@@ -1,8 +1,8 @@
 # Hello, I'm Nikolaos Balatos! 👋
 
 ## About Me
-- 🎓 BCs Graduate | Ionian University | Dept. of Informatics
-- MSc Student | Aalborg University | Copenhagen
+- BCs Informatics (Graduate) | Ionian University | Dept. of Informatics
+- MSc Cybersecurity (Currently) | Aalborg University | Copenhagen
 - 🌱 Passionate about Cybersecurity
 
 You Will Never Miss a Lucky Day if You Try Every Single Day
